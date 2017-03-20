@@ -1,0 +1,149 @@
+
+.signup{
+	margin: 0 auto;
+	float: none;
+	padding: 3em 0;
+}
+.signup h3{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-weight: 700;
+	padding: 1em 0;
+	color: #607D8B;
+}
+.signup h4{
+	text-align: center;
+	font-size: 19px;
+	height: 19px;
+	font-weight: 700;
+	padding: 1em 0;
+	color: #f37780;
+}
+#Fname{
+	margin-right: 
+}
+#Lname{
+	margin-left: 
+}
+#textAr{
+	width: 100%;
+	border-radius: 4px;
+	color: #251818;
+	padding: 12px 12px;
+}
+.bton{
+	text-align: center;
+}
+
+.form-control {
+    
+    font-weight: bold;
+}
+
+
+.multiply{
+	padding: 5em 0;
+	margin: 0 auto;
+	float: none;
+}
+#Num{
+	width: 100%;
+	padding: 12px 10px;
+	background-color: rgb(255, 255, 255);
+	border:1px solid gray;
+	border-radius: 4px;
+	
+	font-weight: 900;
+	font-size: 20px;
+}
+.multiplication .btn-custom{
+	padding: 12px 40px;
+	font-weight: 900;
+	font-size: 19px;
+
+    background-color: rgba(255, 255, 255, 0.78);
+    border: 1.5px solid #000;
+    color: #181818;
+
+	
+}
+.multiplication .btn-custom:hover{
+	
+font-weight: 900;
+	
+font-size: 19px;
+	
+background-color: rgb(255, 255, 255);
+	
+color: #fff;
+}
+.resl{
+	height: 300px;
+	width: 100%;
+	background-color: rgb(255, 255, 255);
+	border: 1px solid #555454;
+	border-radius: 4px;
+	
+	text-align: center;
+	margin-top: 1em;
+}
+#mulRe{
+	font-weight: 900;
+	font-size: 19px;
+}
+
+
+#disp{
+	width: 100%;
+	padding: 25px 20px;
+	margin-bottom: 15px;
+	background-color: rgb(255, 255, 255);
+	
+	text-align: right;
+	font-weight: 500;
+	font-size: 35px;
+	border-radius: 6px;
+}
+.calculator button{
+    width: 25%;
+    padding: 20px 0px;
+    float: left;
+    font-weight: bolder;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 0px;
+    background-color: rgba(46, 139, 87, 0.36);
+}
+
+
+
+#Paldr{
+	width: 100%;
+	padding: 12px 10px;
+	background-color: rgb(255, 255, 255);
+	border:1px solid gray;
+	border-radius: 4px;
+	
+	text-align: center;
+	font-weight: 700;
+	font-size: 19px;
+}
+
+
+.PDresl{
+	height: 100px;
+	width: 100%;
+	background-color: rgb(255, 255, 255);
+	border:1px solid gray;
+	border-radius: 4px;
+	
+	text-align: center;
+	margin-top: 1em;
+}
+#PDmulRe{
+	font-weight: 900;
+	font-size: 26px;
+	padding-top: 15px;
+}
+
